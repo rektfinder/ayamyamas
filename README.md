@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rektfinder
 - 👀 I’m interested in cryptocurrency 
-- 🌱 I’m currently learning testnet node
+- 🌱 I’m currently running testnet node
 - 💞️ I’m looking to collaborate on your project 
 - 📫 How to reach me @rektfinder (Twitter)
 
